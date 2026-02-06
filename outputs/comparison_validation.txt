@@ -1,0 +1,5 @@
+Scratch vs Pretrained (Validation)
+===================================
+Pretrained Accuracy : 99.42%
+Scratch Accuracy    : 26.56%
+Accuracy Difference : 72.86%

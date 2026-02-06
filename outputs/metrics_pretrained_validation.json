@@ -1,0 +1,5 @@
+{
+  "model_type": "pretrained",
+  "eval_split": "Validation",
+  "accuracy": 99.41634241245137
+}
