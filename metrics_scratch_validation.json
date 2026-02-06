@@ -1,0 +1,5 @@
+{
+  "model_type": "scratch",
+  "eval_split": "Validation",
+  "accuracy": 26.556420233463037
+}
